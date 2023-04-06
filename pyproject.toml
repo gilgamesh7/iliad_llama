@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "iliad-llama"
+version = "0.1.0"
+description = "learn how artificial intelligence (AI) can empower us to create educational platforms that are smarter, more personalized, and more effective than ever by leveraging the latest advancements in AI technology such as GPT-3 and ChatGPT"
+authors = ["gilgamesh7 <felidaesrule@yahoo.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "iliad_llama"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+llama-index = "^0.5.8"
+tiktoken = "^0.3.3"
+langchain = "^0.0.132"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
