@@ -1,0 +1,5 @@
+Spock Sarek
+123 Second Street, Anycity UK | (555) 555-1234 | spock.sarek@email.com
+
+Summary
+Spock is a fictional character in the Star Trek media franchise. He first appeared in the original Star Trek series serving aboard the starship USS Enterprise as science officer and first officer (and Kirk's Second-in-command) and later as commanding officer of the vessel. Spock's mixed human-Vulcan heritage serves as an important plot element in many of the character's appearances. Along with Captain James T. Kirk (William Shatner) and Dr. Leonard "Bones" McCoy (DeForest Kelley), he is one of the three central characters in the original Star Trek series and its films. After retiring from active duty in Starfleet, Spock served as a Federation ambassador, and later became involved in the ill-fated attempt to save Romulus from a supernova,[3] leading him to live out the rest of his life in a parallel universe.
