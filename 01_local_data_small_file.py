@@ -6,7 +6,7 @@ from llama_index import GPTSimpleVectorIndex, SimpleDirectoryReader
 
 # Initialise Logger
 logging.basicConfig(level=logging.INFO, format="[{asctime}] - {funcName} - {message}", style='{')
-logger = logging.getLogger("QUICK-TEST")
+logger = logging.getLogger("QUICK-TEST-1")
 
 openai_api_key = os.environ.get('OPENAI_API_KEY')
 
